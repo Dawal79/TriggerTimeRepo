@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dawso/Documents/Games/SurvivalShooter/TriggerTimeRepo/TriggerTimeGame/Content/Blueprints/Weapons/WeaponSystemComponent.uasset",
+				"C:/Users/dawso/Documents/Games/SurvivalShooter/TriggerTimeRepo/TriggerTimeGame/Content/Blueprints/Weapons/WeaponSysremComponent.uasset",
+				"C:/Users/dawso/Documents/Games/SurvivalShooter/TriggerTimeRepo/TriggerTimeGame/Content/Blueprints/Weapons/E_WeaponEnum.uasset",
+				"C:/Users/dawso/Documents/Games/SurvivalShooter/TriggerTimeRepo/TriggerTimeGame/Content/Blueprints/Weapons/MasterWeapon.uasset",
 				"C:/Users/dawso/Documents/Games/SurvivalShooter/TriggerTimeGame/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
