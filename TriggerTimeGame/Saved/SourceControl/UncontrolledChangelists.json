@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/niloo/OneDrive/Documents/Unreal Projects/TriggerTime/TriggerTimeGame/Content/ThirdPerson/Blueprints/BP_AI_Enemy.uasset",
+				"C:/Users/niloo/OneDrive/Documents/Unreal Projects/TriggerTime/TriggerTimeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7M/11OP008CGBCP6CSNQXX7OH.uasset",
+				"C:/Users/niloo/OneDrive/Documents/Unreal Projects/TriggerTime/TriggerTimeGame/Content/ThirdPerson/Blueprints/WB_AI_Healthbar.uasset",
 				"C:/Users/niloo/OneDrive/Documents/Unreal Projects/TriggerTime/TriggerTimeRepo/TriggerTimeGame/Content/EnemyPackage/Maps/ThirdPersonExampleMap_BuiltData.uasset",
 				"C:/Users/niloo/OneDrive/Documents/Unreal Projects/TriggerTime/TriggerTimeRepo/TriggerTimeGame/Content/EnemyPackage/Maps/ThirdPersonExampleMap.umap",
 				"C:/Users/niloo/OneDrive/Documents/Unreal Projects/TriggerTime/TriggerTimeRepo/TriggerTimeGame/Content/EnemyPackage/Blueprints/ThirdPersonCharacter.uasset",
